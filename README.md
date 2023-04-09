@@ -48,5 +48,3 @@ Run the file
 Launch the game
 
 In-game INSERT button
-
-# PASSWORD FOR ZIP ARCHIVE: 23
